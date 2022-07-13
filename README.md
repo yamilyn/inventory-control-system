@@ -103,7 +103,7 @@ I worked on the charts for the dashboard and coded frontend JavaScript for it to
 On that day, all the technical requirements were met. However, me and my co-worker decided to work together in order to test, check for bugs, conflicts and apply more styling. By the end of the day, we have deployed the system on Heroku.
 
 ### 🔉 Team communication
-I have worked remotely with my co-worker and for communication purpose, we have used **Zoom**, **Slack** and **Trello**. As previously mentioned, for the version control, we have used **GitHub enterprise**.
+I have worked remotely with my co-worker and for communication purposes, we have used **Zoom**, **Slack** and **Trello**. As previously mentioned, for version control, we have used **GitHub enterprise**.
 
 ***
 
@@ -194,7 +194,7 @@ exports.supplier_chart_get = (req, res) => {
 ***
 
 ### 🐞 Bugs
-When the user is updating their profile, it is not asking to confirm the password. The charts needs to filter product that current user has added into the system, its current showing ***all*** products.
+When the user is updating their profile, it is not asking to confirm the password. The charts need to filter products that the current user has added into the system, its current showing ***all*** products.
 
 ***
 
