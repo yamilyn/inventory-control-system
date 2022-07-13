@@ -4,6 +4,7 @@
 ## 👋 README by ***Yamily Benigni*** - [Linkedin](https://www.linkedin.com/in/yamilybenigni/) | [Portfolio](https://yamilycodes.com)
 
 ### 🔗 Quick Links
+##### [PROJECT PHILOSOPHY](https://github.com/yamilyn/inventory-control-system#-project-philosophy) - [DEPLOYMENT](https://github.com/yamilyn/inventory-control-system#-deployment) - [TECHNICAL REQUIREMENTS](https://github.com/yamilyn/inventory-control-system#-technical-requirements) - [IDEA](https://github.com/yamilyn/inventory-control-system#-idea) - [TECHNOLOGIES USED](https://github.com/yamilyn/inventory-control-system#-technologies-used) - [DEVELOPMENT JOURNEY](https://github.com/yamilyn/inventory-control-system#-development-journey) - [TEAM COMMUNICATION](https://github.com/yamilyn/inventory-control-system#-team-communication) - [KEY LEARNINGS](https://github.com/yamilyn/inventory-control-system#-key-learnings) - [CHALLENGES](https://github.com/yamilyn/inventory-control-system#-challenges) - [DELIVERED FEATURES](https://github.com/yamilyn/inventory-control-system#-delivered-features) - [UNSOLVED PROBLEMS](https://github.com/yamilyn/inventory-control-system#-unsolved-problems) - [BUGS](https://github.com/yamilyn/inventory-control-system#-bugs) - [DEVELOPERS](https://github.com/yamilyn/inventory-control-system#developers)
 
 ***
 
@@ -101,7 +102,7 @@ I worked on the charts for the dashboard and coded frontend JavaScript for it to
 #### Day 4
 On that day, all the technical requirements were met. However, me and my co-worker decided to work together in order to test, check for bugs, conflicts and apply more styling. By the end of the day, we have deployed the system on Heroku.
 
-#### Team communication
+### 🔉 Team communication
 I have worked remotely with my co-worker and for communication purpose, we have used **Zoom**, **Slack** and **Trello**. As previously mentioned, for the version control, we have used **GitHub enterprise**.
 
 ***
@@ -111,7 +112,7 @@ Besides the programming skills, this project has helped me understand the import
 
 ***
 
-### 💎 Challenges
+### 🚨 Challenges
 I had a few challenges along the journey, first, we decided to show the data as charts with info from products and suppliers, for this I have added few lines of code in order to show and populate those charts, below are some example of my coding:
 
 ```jsx
