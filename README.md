@@ -198,6 +198,13 @@ When the user is updating their profile, it is not asking to confirm the passwor
 
 ***
 
+### 🌟 Wins
+I had the opportunity to develop a full stack web application for the food industry, as I have a background in culinary arts it was really important to build an app that could attend such businesses. The main focus was to help control stock rotation to avoid product waste. 
+
+Although I built this app with the food industry in mind, it could be applied to any other industry that has products, suppliers and stock rotation.
+
+***
+
 ## Developers
 * Yamily Benigni - [Linkedin](https://www.linkedin.com/in/yamilybenigni/)
 * Christopher Carey - [Linkedin](https://www.linkedin.com/in/chriskcarey/)
