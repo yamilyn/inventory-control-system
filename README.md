@@ -94,13 +94,13 @@ Each morning, we have started the day with a sprint stand-up to catch up with ea
 I started planning the project with my co-worker about the basic working features we wanted, then finalised the ERD and wireframes. I also started coding the `product` model, controllers and some views `.ejs`.
 
 #### Day 2
-I started working on the `supplier` model and controllers, also the many-to-many relationship association between them. I continued working on the templates `.ejs` with some styling from Bootstrap classes. Me and my co-worker merged the authentication and user model and checked for any conflicts.
+I started working on the `supplier` model and controllers, also the many-to-many relationship association between them. I continued working on the templates `.ejs` with some styling from Bootstrap classes. My co-worker and I merged the authentication and user model and checked for any conflicts.
 
 #### Day 3
-I worked on the charts for the dashboard and coded frontend JavaScript for it to show. I also worked on the front end by adding some extra styling from the Bootstrap framework.
+I worked on the charts for the dashboard and I also worked on the styling from the Bootstrap framework.
 
 #### Day 4
-On that day, all the technical requirements were met. However, me and my co-worker decided to work together in order to test, check for bugs, conflicts and apply more styling. By the end of the day, we have deployed the system on Heroku.
+On that day, all the technical requirements were met. However, my co-worker and I decided to work together in order to test, check for bugs, conflicts and apply more styling. By the end of the day, we have deployed the system on Heroku.
 
 ### 🔉 Team communication
 I have worked remotely with my co-worker and for communication purposes, we have used **Zoom**, **Slack** and **Trello**. As previously mentioned, for version control, we have used **GitHub enterprise**.
